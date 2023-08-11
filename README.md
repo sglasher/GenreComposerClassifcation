@@ -11,11 +11,8 @@ This project involves applying both CNNs and LSTMs separately to MIDI data for c
 - [Background](#background)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Background
 
